@@ -4,9 +4,9 @@
 Para iniciar o projeto:
 
 ~~~bash
-git clone https://github.com/bruno167/crud-portifolio
+git clone https://github.com/bruno167/crud-typescript
 
-cd crud-portfolio
+cd crud-typescript
 
 npm install
 ~~~ 
